@@ -1,2 +1,4 @@
-# jogo-da-velha
-Jogo da Velha em HTML, CSS e Javascript
+# Jogo da Velha
+Jogo da Velha criado em HTML, CSS e Javascript 
+
+Projeto para o curso DIO Javascript Game Developer
